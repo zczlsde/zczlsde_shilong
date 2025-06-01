@@ -1,17 +1,45 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a second-year PhD student in Computer Science at the University of Liverpool, where I am supervised by [Prof. Rahul Savani](https://www.csc.liv.ac.uk/~rahul/), [Dr. Yongzhao Wang](https://sites.google.com/umich.edu/yongzhao-wang/), and [Dr. Meng Fang](https://mengfn.github.io/). My research focuses on large language models, particularly their applications at the intersection of game theory. More broadly, I am interested in natural language processing and reinforcement learning.
 
-A data-driven personal website
+Before starting my PhD, I completed my MEng in Computer Science at University College London, where I was supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/) and [Dr. Yali Du](https://yalidu.github.io/).
+
+Publication
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**From Natural Language to Extensive-Form Game Representations**  
+**Shilong Deng**, Yongzhao Wang, Rahul Savani  
+**AAMAS 2025**\\
+[paper](https://arxiv.org/abs/2501.17282)
+
+**Large language models are neurosymbolic reasoners**  
+Meng Fang*, **Shilong Deng***, Yudi Zhang*, Zijing Shi, Ling Chen, Mykola Pechenizkiy, Jun Wang  
+**AAAI 2024**\\
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29754) [code](https://github.com/hyintell/LLMSymbolic)
+
+**Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game**  
+Zijing Shi, Meng Fang, Shunfeng Zheng, **Shilong Deng**, Ling Chen, Yali Du \\
+[paper](https://arxiv.org/abs/2312.17515)
+
+Teaching
+======
+COMP0226 Computer-Based Trading in Financial Markets \\
+University of Liverpool, 2023-2024; 2024-2025
+
+COMP0066 Introductory Programming \\
+University College London, 2022-2023
+
+
+Service
+======
+Conference Reviewer: IJCAI 2025 
+
+<!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
@@ -46,4 +74,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
