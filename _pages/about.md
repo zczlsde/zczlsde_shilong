@@ -10,34 +10,39 @@ I am currently a second-year PhD student in Computer Science at the University o
 
 Before starting my PhD, I completed my MEng in Computer Science at University College London, where I was supervised by [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/) and [Dr. Yali Du](https://yalidu.github.io/).
 
-Publication
-======
-[1] **From Natural Language to Extensive-Form Game Representations**  
+---
+
+### Publications
+
+**[1] From Natural Language to Extensive-Form Game Representations**  
 **Shilong Deng**, Yongzhao Wang, Rahul Savani  
-**AAMAS 2025**\\
+*Proc. AAMAS 2025*  
 [paper](https://arxiv.org/abs/2501.17282)
 
-[2] **Large language models are neurosymbolic reasoners**  
-Meng Fang*, **Shilong Deng***, Yudi Zhang*, Zijing Shi, Ling Chen, Mykola Pechenizkiy, Jun Wang  
-**AAAI 2024**\\
-[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29754) [code](https://github.com/hyintell/LLMSymbolic)
+**[2] Large Language Models Are Neurosymbolic Reasoners**  
+Meng Fang\*, **Shilong Deng**\*, Yudi Zhang\*, Zijing Shi, Ling Chen, Mykola Pechenizkiy, Jun Wang  
+*Proc. AAAI 2024*  
+[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29754) · [code](https://github.com/hyintell/LLMSymbolic)
 
-[3] **Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game**  
-Zijing Shi, Meng Fang, Shunfeng Zheng, **Shilong Deng**, Ling Chen, Yali Du \\
+**[3] Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game**  
+Zijing Shi, Meng Fang, Shunfeng Zheng, **Shilong Deng**, Ling Chen, Yali Du  
 [paper](https://arxiv.org/abs/2312.17515)
 
-Teaching
-======
-COMP0226 Computer-Based Trading in Financial Markets \\
-University of Liverpool, 2023-2024; 2024-2025
+---
 
-COMP0066 Introductory Programming \\
-University College London, 2022-2023
+### Teaching
 
+**University of Liverpool**  
+- COMP0226 Computer-Based Trading in Financial Markets (2023–2025)
 
-Service
-======
-Conference Reviewer: IJCAI 2025 
+**University College London**  
+- COMP0066 Introductory Programming (2022–2023)
+
+---
+
+### Service
+
+- Conference Reviewer: IJCAI 2025
 
 <!-- Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
