@@ -13,7 +13,7 @@ title                    : "Shilong Deng"
 title_separator          : "-"
 name                     : &name "Shilong Deng"
 description              : &description "personal description"
-url                      : https://zczlsde.github.io/
+url                      : "https://zczlsde.github.io/"
 baseurl                  : ""
 repository               : ""
 
