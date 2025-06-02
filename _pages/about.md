@@ -12,7 +12,7 @@ Before starting my PhD, I completed my MEng in Computer Science at University Co
 
 ---
 
-### Publications
+# Publications
 
 **[1] From Natural Language to Extensive-Form Game Representations**  
 **Shilong Deng**, Yongzhao Wang, Rahul Savani  
@@ -30,7 +30,7 @@ Zijing Shi, Meng Fang, Shunfeng Zheng, **Shilong Deng**, Ling Chen, Yali Du
 
 ---
 
-### Teaching
+# Teaching
 
 **University of Liverpool**  
 - COMP0226 Computer-Based Trading in Financial Markets (2023–2025)
@@ -40,7 +40,7 @@ Zijing Shi, Meng Fang, Shunfeng Zheng, **Shilong Deng**, Ling Chen, Yali Du
 
 ---
 
-### Service
+# Service
 
 - Conference Reviewer: IJCAI 2025
 
